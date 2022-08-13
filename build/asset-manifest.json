@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.068d6a88.chunk.css",
+    "main.js": "/static/js/main.146ce1b9.chunk.js",
+    "main.js.map": "/static/js/main.146ce1b9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1a43f119.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1a43f119.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.30a1b15f.chunk.js": "/static/js/2.30a1b15f.chunk.js",
+    "static/js/2.30a1b15f.chunk.js.map": "/static/js/2.30a1b15f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.068d6a88.chunk.css.map": "/static/css/main.068d6a88.chunk.css.map",
+    "static/js/2.30a1b15f.chunk.js.LICENSE.txt": "/static/js/2.30a1b15f.chunk.js.LICENSE.txt",
+    "static/media/c.5d3e903b.svg": "/static/media/c.5d3e903b.svg",
+    "static/media/i.d5b9f9dc.svg": "/static/media/i.d5b9f9dc.svg",
+    "static/media/materialdesignicons.css": "/static/media/materialdesignicons-webfont.e9db4005.woff2",
+    "static/media/App.scss": "/static/media/p.6bb33c8e.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a43f119.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.30a1b15f.chunk.js",
+    "static/css/main.068d6a88.chunk.css",
+    "static/js/main.146ce1b9.chunk.js"
+  ]
+}
